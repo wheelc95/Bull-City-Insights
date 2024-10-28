@@ -1,0 +1,12 @@
+Product ID,Product Name,Quantity,Price Per Unit,Last Restock Date,Supplier
+P123,Widget A,50,$5.00 ,9/10/2024,Supplier1
+P124,Widget B,30,$6 ,9/12/2024,SUPPLIER1
+P125,Widget C,N/A,$7.50 ,15-Sep-24,Supplier2
+P126,Widget D,fifty,$8.00 ,9/18/2024,Supplier2
+p127,widget e,20,9,9/22/2024,supplier3
+P127,widget E,20,$9 ,9/22/2024,Supplier3
+P128,widget F,25,$10.00 ,9/25/2024,Supplier4
+P129,widget g,15,11,9/28/2024,Supplier5
+,Widget H,40,$12.00 ,9/30/2024,Supplier6
+P130,Widget I,45,$13.00 ,9/12/2024,Supplier7
+P131,Widget J,60,$14.00 ,9/12/2024,Supplier8
